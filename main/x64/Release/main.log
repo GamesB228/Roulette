@@ -1,0 +1,13 @@
+﻿  main.cpp
+E:\Ігра С++\buckshot roulette\Main\main.cpp(23,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+E:\Ігра С++\buckshot roulette\Main\main.cpp(42,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+E:\Ігра С++\buckshot roulette\Main\main.cpp(146,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+E:\Ігра С++\buckshot roulette\Main\main.cpp(175,19): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+E:\Ігра С++\buckshot roulette\Main\main.cpp(328,46): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+E:\Ігра С++\buckshot roulette\Main\main.cpp(394,46): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+  Создание кода
+  0 of 156 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  main.vcxproj -> E:\Ігра С++\buckshot roulette\main\x64\Release\main.exe

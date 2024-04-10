@@ -1,0 +1,9 @@
+﻿  main.cpp
+E:\Ігра С++\buckshot roulette\Main\main.cpp(23,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+E:\Ігра С++\buckshot roulette\Main\main.cpp(42,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+E:\Ігра С++\buckshot roulette\Main\main.cpp(146,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+E:\Ігра С++\buckshot roulette\Main\main.cpp(175,19): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+E:\Ігра С++\buckshot roulette\Main\main.cpp(325,46): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+E:\Ігра С++\buckshot roulette\Main\main.cpp(391,46): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+E:\Ігра С++\buckshot roulette\Main\main.cpp(273): warning C4715: item_name: значение возвращается не при всех путях выполнения
+  main.vcxproj -> E:\Ігра С++\buckshot roulette\main\x64\Debug\main.exe
